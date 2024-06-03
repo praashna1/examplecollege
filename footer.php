@@ -1,0 +1,1 @@
+<h1>this is my footer. copyright example college.</h1>
